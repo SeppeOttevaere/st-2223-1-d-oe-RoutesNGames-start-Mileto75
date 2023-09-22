@@ -10,4 +10,8 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Wba.Oefening.Games.Core\Wba.Oefening.Games.Core.csproj" />
+  </ItemGroup>
+
 </Project>
